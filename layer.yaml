@@ -1,0 +1,7 @@
+includes: 
+  - layer:basic
+options:
+  basic:
+    use_venv: true
+    include_system_packages: true
+repo: https://github.com/chrisheckler/layer-file-writer

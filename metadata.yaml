@@ -1,0 +1,10 @@
+name: file-writer
+summary: writes out files
+maintainer: Chris Heckler <hecklerchris@hotmail.com> 
+description: |
+  A simple charm that writes out files
+tags:
+  - webapp
+subordinate: false
+series:
+  - xenial
